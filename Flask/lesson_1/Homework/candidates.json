@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Adela",
+    "position": "Go разработчик",
+    "age": 40,
+    "skills": "go, Python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri",
+    "position": "Delphi developer",
+    "age": 26,
+    "skills": "Delphi, pascal, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burth",
+    "position": "Team Lead",
+    "age": 26,
+    "skills": "C+, C#"
+  }
+]
